@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/MakeByteCode.sol": "MakeByteCode"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/MakeByteCode.sol": {
+			"keccak256": "0x373a77245f4f8a0e514374087abb941c7d7f15e491fb6edf0d26615930cea4a7",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3e734a673ae7e0beb575df129bfdf27deb9f1ebff12ed38f31fa704e1645ed7a",
+				"dweb:/ipfs/QmVrddwqmoWtg7k176tJ9FqmhZffi4vpGpUXsqyXspThTQ"
+			]
+		}
+	},
+	"version": 1
+}
